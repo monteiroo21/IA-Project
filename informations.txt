@@ -1,0 +1,5 @@
+Dividir o mapa em partes e criar pontos de segurança em cada uma delas para a cobra saber se pode se mover para lá ou não.
+Enquanto isso ela analisa o mapa e se move para a direção que tem mais pontos de segurança caso ela não possa se mover para lá e ficar em loop e morrer.
+Os pontos são necessários, principalmente, para quando não conseguir atravessar paredes e limites do mapa.
+No caso de super foods, ter sempre cuidado em perceber se pode voltar a um ponto de segurança ou não, porque pode ser uma super food onde ela perde a possibilidade de conseguir atravessar as coisas.
+Os pontos de segurança devem estar pelo menos 2 casas de distância de qualquer obstáculo, para que a cobra tenha tempo de se mover para outro lugar caso não consiga se mover para lá.
